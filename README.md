@@ -1,0 +1,1 @@
+My implementation for [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/). It guides you through the core paradigms of generative models, ranging from variational autoencoders (VAEs) and generative adversarial networks (GANs) to diffusion models and flow matching.
